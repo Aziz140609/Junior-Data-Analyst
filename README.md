@@ -8,11 +8,11 @@ Repositori ini merupakan dokumentasi perjalanan belajar, pengembangan keterampil
 
 ## 👨‍💻 About Me
 
-Saya adalah seorang calon **Data Analyst** yang memiliki minat dalam mengolah data mentah menjadi informasi yang bernilai untuk mendukung proses pengambilan keputusan.
+Saya merupakan peserta Program Simulasi Industri Data Analyst yang sedang menjalani kegiatan Praktik Kerja Lapangan (PKL) pada bidang data dan analitik. Saya memiliki minat dalam mengolah data mentah menjadi informasi yang bernilai untuk mendukung proses pengambilan keputusan.
 
-Melalui program simulasi industri ini, saya berfokus untuk meningkatkan kemampuan analisis data secara end-to-end, mulai dari pengumpulan data, pembersihan data, eksplorasi data, visualisasi, hingga penyampaian insight kepada audiens non-teknis.
+Melalui proses pembelajaran dan pengalaman praktik, saya berfokus untuk mengembangkan kemampuan analisis data secara end-to-end, mulai dari pengumpulan data, pembersihan data, eksplorasi data, visualisasi, hingga penyampaian insight kepada audiens non-teknis.
 
----
+Repositori ini menjadi dokumentasi perjalanan belajar, pengembangan keterampilan, serta kumpulan proyek yang dikerjakan selama proses pembelajaran dan praktik industri.
 
 ## 🎯 Repository Objectives
 
@@ -127,16 +127,25 @@ Junior-Data-Analyst-Journey/
 
 **Current Status:**
 
-🚀 Currently in **Week 1 — Industry Orientation & Tools Setup**
+🚀 Currently participating in Industrial Simulation and Internship Activities
 
 Activities:
 
 * Repository structure setup
-* GitHub repository initialization
-* Learning environment preparation
-* Documentation setup
+* Documentation and learning progress tracking
+* Data analysis practice
+* Project development and portfolio building
 
 ---
+
+## 📝 Latest Articles
+
+Daftar artikel terbaru yang saya publikasikan di Blogspot mengenai pembelajaran Data Analytics. *(Catatan: Artikel akan terus diperbarui selama proses pembelajaran berlangsung)*
+
+* [Dasar-Dasar Dunia Data](https://juniordataanalystaziz.blogspot.com/2026/06/perbedaan-data-engineer-data-analyst.html)
+* [Perbedaan Data Engineer, Data Analyst, dan Data Scientist](https://juniordataanalystaziz.blogspot.com/2026/06/perbedaan-data-engineer-data-analyst_01398916077.html)
+* [Peta Belajar Data untuk Pemula](#link-artikel)
+* [Bahasa Pemrograman untuk Dunia Data](#link-artikel)
 
 ## 📊 Expected Outputs
 
