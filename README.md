@@ -144,6 +144,7 @@ Daftar artikel terbaru yang saya publikasikan di Blogspot mengenai pembelajaran 
 
 * [Dasar-Dasar Dunia Data](https://juniordataanalystaziz.blogspot.com/2026/06/perbedaan-data-engineer-data-analyst.html)
 * [Perbedaan Data Engineer, Data Analyst, dan Data Scientist](https://juniordataanalystaziz.blogspot.com/2026/06/perbedaan-data-engineer-data-analyst_01398916077.html)
+* [Istilah-Istilah Dalam Data Analyst](https://juniordataanalystaziz.blogspot.com/2026/06/mengenal-istilah-istilah-populer-di.html)
 
 ## 📊 Expected Outputs
 
