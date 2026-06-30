@@ -80,14 +80,13 @@ Kompetensi yang dikembangkan selama program:
 
 Roadmap pembelajaran selama program simulasi industri:
 
-* [ ] Week 1 — Industry Orientation & Tools Setup
-* [ ] Week 2 — Data Collection & Understanding
-* [ ] Week 3 — Data Cleaning & Preparation
-* [ ] Week 4 — Exploratory Data Analysis
-* [ ] Week 5 — Problem Solving & Business Questions
-* [ ] Week 6 — Reporting & Data Storytelling
-* [ ] Week 7 — Final Project & Portfolio Development
-* [ ] Week 8 — Final Presentation & Evaluation
+## 📈 Progress Mingguan
+- [x] W1-2: Setup & Data Brief
+- [ ] W3-4: Data Cleaning & SQL
+- [ ] W5-6: Exploratory Data Analysis
+- [ ] W7-8: Business Question Analysis
+- [ ] W9-10: Dashboard & Storytelling
+- [ ] W11-12: Final Project
 
 ---
 
