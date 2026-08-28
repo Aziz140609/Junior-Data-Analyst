@@ -1,0 +1,41 @@
+Analisis data set Retail : 
+
+Judul Business case : Menganalisis Dataset Retail
+
+2.Problem : Ada penurunan Penjualan Yg Drastis di Bulan Desember
+
+3.Pertanyaan : 
+A) Penyebab bisa turun
+B) Barang apa yg Paling turun Penjualan nya
+C) Bulan sebelum nya Barang apa yg Paling laris
+
+4.KPI
+Untuk KPI Di Bulan Desember 2011 Total Penjualan,Cutomer aktif,dan Total Order nya Berada di paling Bawah Dari bulan bulan lain
+Tapi Untuk AOV nya Malah Jadi yg paling tinggi Dari semua bulan 
+
+5.Data & Method
+Data : 
+Dataset yang digunakan adalah Online Retail Dataset dari UCI Machine Learning Repository, berisi 541.909 transaksi dari toko online di Inggris, periode Desember 2010 sampai Desember 2011. Data mencakup informasi nomor invoice, produk, jumlah pembelian, harga satuan, ID pelanggan, dan negara
+Method : 
+Analisis dilakukan menggunakan Python (pandas, matplotlib) di Google Colab.Data Sudah Clean dari sana nya.Kemudian Melakukan Tren analisis untuk Melihat pola bulanan.Lalu Membuat KPI Perbulan dan Membandingkan KPI si setiap Bulan nya untuk melihat Apa Masalah nya
+
+6.Analysis
+Melihat dari Tren nya Menunjukan Bahwa ada Penurunan Drastis yg terjadi di bulan december tahun 2011 tetapi sebelum nya ada kenaikan Drastis di bulan sebelum nya, Penurunan terjadi karena Turun nya total price,customer aktif dan juga total order yg paling bawah dari seluruh bulan
+
+7.Root Cause
+Penyebab Utamanya Di karenakan ada penurunan Aktif customer yg sangat drastis
+
+8.Key insight 
+Terjadi penurunan Penjualan di bulan desember 2011 sekitar 44.13% dari rata rata penjulan Bulan Bulan sebelum nya yg di sebabkan karena Active Cutomer yg menurun
+
+9.Alternative Solution
+A) Melakukan Promosi, Melalukan Promosi Untuk Retail nya
+B) Memberikan dicount, Memberikan Diskount Pada Barang barang yg Sering Di beli Untuk menaikan ActiveCustomer
+C) Membuat Bundling, Membuat BUndling kepada Item yg termasuk ke dalam kategori yg sama
+
+10.Recommendation 
+Saya Merekomendasi kan Untuk Memberikan Discount Karena di situ bisa untuk Menarik Pelanggan yg paling banyak
+
+11.Expected Impact  
+Dengan ada nya discount bisa menarik customer untuk membeli Barang tersebut di situ,dan bisa menaik Active customer.barang discount nya di taruh di bagian tengah agar para pembeli bisa melihat lihat barang sebelum mereka sampai ke tempat discount nya dan berharap meraka membeli dan meniakan AOV dan total penjualan ya
+
