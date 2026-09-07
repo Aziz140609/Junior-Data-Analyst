@@ -1,0 +1,7 @@
+Step,Description
+1,Memuat data dari Superstore.csv dengan encoding 'latin1'.
+2,Mengkonversi kolom 'Order Date' ke format datetime.
+3,Mengkonversi kolom 'Ship Date' ke format datetime.
+4,Menghapus kolom 'Country' karena hanya memiliki satu nilai unik ('US').
+5,Menambahkan kolom 'Order Month' dan 'Order YearMonth' untuk analisis bulanan.
+6,Menambahkan kolom 'Order Year' untuk analisis tahunan.
